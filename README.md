@@ -37,3 +37,5 @@ FLUX.1-schnell
 AI Generated Image
      ↓
 Display + Download + History
+
+⭐ If you found this project interesting, consider giving the repository a star!
